@@ -1,6 +1,6 @@
 # Excaliat - Pioneering Cybersecurity & AI
 
-# ![Excaliat Banner](https://your-image-url.com/banner.png)
+# ![Excaliat Banner](https://github.com/excaliat/.github/blob/main/Designer.png)
 
 ## 🚀 About Us
 Excaliat is more than just a cybersecurity company; it's a movement dedicated to transforming Pakistan's digital security landscape. Through cutting-edge research, innovative AI solutions, and specialized expertise, we confidently empower individuals and organizations to tackle tomorrow’s cyber threats.
