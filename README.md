@@ -1,4 +1,4 @@
-# Excaliat - Pioneering Cybersecurity & AI
+# Excaliat - Not Just a Company but a Movement
 
 # ![Excaliat Banner](https://github.com/excaliat/.github/blob/main/Designer.png)
 
@@ -23,8 +23,6 @@ Excaliat's leadership team consists of experts in cybersecurity, artificial inte
 - **Dr. Rauf** - Specialist in IoT security and embedded systems.
 - **Arslan Ahmed Qureshi** - Leader in Linux kernel security and advanced exploitation techniques.
 - **Hadeed-Ur-Rehman** - AI specialist focused on integrating artificial intelligence with cybersecurity.
-- **Faran Abdullah** - Researcher in fuzzing and vulnerability discovery.
-- **Zarafshan Ajmal** - Malware analyst with expertise in .NET-based threats.
 
 ## 📊 Success Stories
 ✅ 150+ cybersecurity projects completed.  
