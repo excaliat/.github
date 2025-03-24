@@ -3,7 +3,7 @@
 # ![Excaliat Banner](https://your-image-url.com/banner.png)
 
 ## 🚀 About Us
-Excaliat is more than just a cybersecurity company; it's a movement dedicated to transforming Pakistan's digital security landscape. Through cutting-edge research, innovative AI solutions, and specialized expertise, we empower individuals and organizations to tackle tomorrow’s cyber threats with confidence.
+Excaliat is more than just a cybersecurity company; it's a movement dedicated to transforming Pakistan's digital security landscape. Through cutting-edge research, innovative AI solutions, and specialized expertise, we confidently empower individuals and organizations to tackle tomorrow’s cyber threats.
 
 ## 🌟 Our Vision
 To establish Excaliat as a global leader in cybersecurity and AI-driven solutions, recognized for transforming challenges into secure, innovative, and sustainable digital environments.
@@ -40,9 +40,9 @@ We provide robust security solutions across various sectors:
 - **IoT & Technology**: Enhancing security for interconnected devices.
 
 ## 📬 Get in Touch
-📧 **Email**: contact@excaliat.com  
+📧 **Email**: info@excaliat.com  
 🌐 **Website**: [excaliat.com](https://excaliat.com)  
-🐦 **Twitter**: [@excaliat](https://twitter.com/excaliat)  
+🐦 **Twitter**: [@excaliat](https://twitter.com/excaliat_pvt)  
 💼 **LinkedIn**: [Excaliat](https://linkedin.com/company/excaliat)
 
 ---
